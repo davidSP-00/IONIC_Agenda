@@ -2,6 +2,6 @@
 
 Aplicacion realizada en con framework IONIC Angular
 
-##Aplicacion
+ ## Aplicacion
 
 Almacena tu agenda de cosas por ralizar.
